@@ -1,9 +1,9 @@
-x=int(input())
-y=int(input())
-z=int(input())
-if (x >=  y) and (x >=  z):
-	print (x)
-elif (y >=  x) and (y >=  z):
-	print (y)
+apple=int(input())
+bat=int(input())
+cat=int(input())
+if (apple >=  bat) and (apple >=  cat):
+	print (apple)
+elif (bat >=  apple) and (bat >=  cat):
+	print (bat)
 else:
-	print(z)
+	print(cat)
