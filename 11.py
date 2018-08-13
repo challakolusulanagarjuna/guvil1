@@ -1,4 +1,4 @@
-n=int(input())
-k=int(input())
-x=n**k
+num1=int(input())
+num2=int(input())
+x=num1**num2
 print(x)
