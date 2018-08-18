@@ -1,4 +1,3 @@
-num1=int(input())
-num2=int(input())
-x=num1**num2
-print(x)
+n1,n2=map(int,raw_input().split())
+num=int(n1)**int(n2)
+print(num)
